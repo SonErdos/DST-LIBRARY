@@ -6,6 +6,6 @@ a library that you will use to report the raiderz.
 ```py 
 import dstlib
 
-dstlib.DestroyerTeam.Denuncia.denuncia('19.123.432.234')
+dstlib.DestroyerTeam.Denuncia.denuncia('ip.ip.ip.ip')
 
 ```
